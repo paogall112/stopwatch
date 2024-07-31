@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/paogall112/stopwatch/static/css/main.9a9a9ca0.css",
-    "main.js": "/paogall112/stopwatch/static/js/main.d5854fb3.js",
-    "static/js/453.235f6548.chunk.js": "/paogall112/stopwatch/static/js/453.235f6548.chunk.js",
-    "index.html": "/paogall112/stopwatch/index.html",
-    "main.9a9a9ca0.css.map": "/paogall112/stopwatch/static/css/main.9a9a9ca0.css.map",
-    "main.d5854fb3.js.map": "/paogall112/stopwatch/static/js/main.d5854fb3.js.map",
-    "453.235f6548.chunk.js.map": "/paogall112/stopwatch/static/js/453.235f6548.chunk.js.map"
+    "main.css": "/stopwatch/static/css/main.9a9a9ca0.css",
+    "main.js": "/stopwatch/static/js/main.da63a4c3.js",
+    "static/js/453.235f6548.chunk.js": "/stopwatch/static/js/453.235f6548.chunk.js",
+    "index.html": "/stopwatch/index.html",
+    "main.9a9a9ca0.css.map": "/stopwatch/static/css/main.9a9a9ca0.css.map",
+    "main.da63a4c3.js.map": "/stopwatch/static/js/main.da63a4c3.js.map",
+    "453.235f6548.chunk.js.map": "/stopwatch/static/js/453.235f6548.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a9a9ca0.css",
-    "static/js/main.d5854fb3.js"
+    "static/js/main.da63a4c3.js"
   ]
 }
